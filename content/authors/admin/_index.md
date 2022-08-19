@@ -42,6 +42,6 @@ highlight_name: true
 title: Jinyan LIU
 email: ""
 ---
-Hi! Thank you for visiting my page! I am Mike, who have strong interest in machine-learning-guided formal verification of Hardware/Software. I graduated from Yanbian University in Aug 2022, and now I am a first-year Ph.D. student in YBU(Yanji) [](https://hongcezh.people.ust.hk/).
+Hi! Thank you for visiting my page! I am Mike, who have strong interest in machine-learning-guided formal verification of Hardware/Software. I graduated from Yanbian University in Aug 2022, and now I am a Software Engineer in Haier[](https://hongcezh.people.ust.hk/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
